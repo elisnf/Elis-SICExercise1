@@ -1,0 +1,21 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Montserrat"
+}
+.wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+.logo a {
+    font-size: 50px;
+    font-weight: bold;
+    float: left;
+    font-family:courier;
+    color :teal;
+}
+menu {
+    float: right;
+}
